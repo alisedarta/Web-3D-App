@@ -1,0 +1,53 @@
+{
+    "pageTextData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded in 1886 Dr John S Pemberton",		
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+		},
+		{
+			"title": "Coca Cola",
+			"subTitle": "New York Harbour, 1886",		
+			"description": "It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special!"
+		},
+		{
+			"title": "Coca Cola Zero",
+			"subTitle": "Denver, 2005",		
+			"description": "First introduced in 2005 as Coca Cola's biggest launch in 22 years and just recently reformulated last year to optimize the drink's taste even more while containing the same ingredients, Coca Cola Zero offers an indistinguishable taste with zero added sugar. You won't tell the difference! "
+		},
+		{
+			"title": "Costa Coffee",
+			"subTitle": "London, 1971",		
+			"description": "The Costa Coffee story began back in 1971 when Sergio and Bruno arrived in London with a burning desire to make great tasting coffee a part of everyday life. Setting up a small roastery in Fenchurch Street, they committed to crafting the finest quality coffee. UK's favourite to this day."
+		},
+		{
+			"x3dModelTitle": "Coca Cola X3D Model",
+			"x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "History of Coca Cola",
+			"subTitle": "Atlanta Beginnings",		
+			"description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass."
+		},
+		{
+			"x3dModelTitle": "Coca Cola Zero X3D Model",
+			"x3dCreationMethod": "This X3D model of the coca cola zero bottle has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Coca Cola Zero",
+			"subTitle": "100% the taste with 0% of the sugar",		
+			"description": "First introduced in 2005 as Coca Cola's biggest launch in 22 years and just recently reformulated last year to optimize the drink's taste even more while containing the same ingredients, Coca Cola Zero offers an indistinguishable taste with zero added sugar. You won't tell the difference! "
+		},
+        {
+			"x3dModelTitle": "Costa Coffee X3D Model",
+			"x3dCreationMethod": "This X3D model of the costa coffee has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Costa Coffee",
+			"subTitle": "We make it better",		
+			"description": "The Costa Coffee story began back in 1971 when Sergio and Bruno arrived in London with a burning desire to make great tasting coffee a part of everyday life. Setting up a small roastery in Fenchurch Street, they committed to crafting the finest quality coffee. UK's favourite to this day."
+		},
+		{
+			"galleryTitle": "3D Images",
+			"galleryDescription": "These 3D images of the Coke can, Sprite bottle and Dr Pepper cup are rendered in 3ds Max 2017 with Mental Ray"
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		}
+	]
+}
